@@ -1,0 +1,2 @@
+# BotPlatform
+Flexible bot platform.
